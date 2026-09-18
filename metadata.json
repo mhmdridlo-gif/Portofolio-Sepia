@@ -1,0 +1,6 @@
+{
+  "name": "Sepia Azhari Portfolio",
+  "description": "Portofolio profesional dan CV dari Sepia Azhari, seorang lulusan Sarjana Manajemen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
